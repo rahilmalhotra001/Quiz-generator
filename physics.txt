@@ -1,0 +1,9 @@
+Q1 one
+A)- a B)- b C)- c D)- d
+Ans- a
+Q2 two
+True/False
+Ans- false
+Q3 ksjfidjf?
+A)- jh B)- j C)- uh D)- uuuu
+Ans- uh
